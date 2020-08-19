@@ -3,9 +3,9 @@
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 #EXTINF:-1,Cultura
 http://177.74.1.38/funtelpa/tv_funtelpa/playlist.m3u8
-#EXTINF:-1,Diario Esportivo
+#EXTINF:-1,DiarioEsportivo
 http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1,TV Parana Turismo
+#EXTINF:-1,TVParanaTurismo
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1,RecordSP
 https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/index_720_av-p.m3u8?sd=10&rebase=on
